@@ -4,7 +4,6 @@
     import {createSmartappDebugger, createAssistant} from '@sberdevices/assistant-client';
     import { setTheme } from './themes';
     import { logger } from "./utils";
-    import {text,background,gradient} from '@salutejs/plasma-tokens'
     import Help from './Help.svelte';
 
     const dictionary = [
